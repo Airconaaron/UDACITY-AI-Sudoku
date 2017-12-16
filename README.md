@@ -39,8 +39,7 @@ On Mac you will also need to do the following `brew install sdl sdl_image sdl_mi
 
 
 ## Visualization
-
-TODO include gif
+![sudoku visual](./sudoku.gif "Sudoku")
 
 **Note:** The `pygame` library is required to visualize your solution -- however, the `pygame` module can be troublesome to install and configure. It should be installed by default with the AIND conda environment, but it is not reliable across all operating systems or versions. Please refer to the pygame documentation [here](http://www.pygame.org/download.shtml), or discuss among your peers in the slack group or discussion forum if you need help.
 
